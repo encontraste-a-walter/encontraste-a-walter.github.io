@@ -1,0 +1,13 @@
+body {
+    padding-top: 30px;
+    background-color: #525252;
+    color: #ececec;
+}
+
+.num {
+    color: lightblue;
+}
+
+p {
+    white-space: pre-wrap;
+}
