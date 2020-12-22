@@ -1,34 +1,7 @@
 body {
-    padding-top: 30px;
-    background-color: #f9ed69;
+  background-color: #F4D03F;
 }
 
-.num {
-    color: lightblue;
-}
-
-p {
-    white-space: pre-wrap;
-}
-
-h1 {
-    font-size: 425%;
-    text-align: center;
-    padding-top: 50px;
-}
-
-.text {
-    font-size: 250%;
-}
-
-h4, h5 {
-    font-size: 250%;
-}
-
-h2 {
-    font-size: 275%;
-}
-
-small {
-    font-size: 200%;
+h3, h4, h5 {
+  margin-top: 20px;
 }
